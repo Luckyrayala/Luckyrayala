@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Luckyrayala
-- 👀 I’m interested in Full stack java developer
-- 🌱 I’m currently working in tech mahindra as software developer
+- 👋 Hi, I’m @LakshmanRao Rayala
+- 👀 I’m working in @Cognizant as  Full stack java developer
 - - 💞️ I’m looking to collaborate on full stack java
 - 📫 How to reach me https://www.linkedin.com/in/lakshman-rao-lucky-rayala-a96673196/
 
